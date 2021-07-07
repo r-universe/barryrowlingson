@@ -8,8 +8,3 @@
 	url = https://gitlab.com/b-rowlingson/voronopie
 	shallow = true
 	registered = true
-[submodule "rainfallr"]
-	path = rainfallr
-	url = https://gitlab.com/b-rowlingson/rainfallr
-	shallow = true
-	registered = true
