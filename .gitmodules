@@ -8,6 +8,11 @@
 	url = https://gitlab.com/b-rowlingson/voronopie
 	shallow = true
 	registered = true
+[submodule "abusethis"]
+	path = abusethis
+	url = https://gitlab.com/b-rowlingson/abusethis
+	shallow = true
+	registered = true
 [submodule "spatialkernel"]
 	path = spatialkernel
 	url = https://github.com/barryrowlingson/spatialkernel

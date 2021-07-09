@@ -3,6 +3,9 @@
     "package": "voronopie"
   },
   {
+    "package": "abusethis"
+  },
+  {
     "package": "spatialkernel"
   }
 ]
