@@ -23,3 +23,8 @@
 	url = https://github.com/barryrowlingson/splancs
 	shallow = true
 	registered = true
+[submodule "swarmr"]
+	path = swarmr
+	url = https://gitlab.com/b-rowlingson/swarmr
+	shallow = true
+	registered = true
