@@ -13,6 +13,9 @@
     "oncran": false
   },
   {
+    "package": "sidclosepairs"
+  },
+  {
     "package": "swarmr"
   }
 ]

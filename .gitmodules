@@ -23,6 +23,11 @@
 	url = https://github.com/barryrowlingson/splancs
 	shallow = true
 	registered = true
+[submodule "sidclosepairs"]
+	path = sidclosepairs
+	url = https://gitlab.com/b-rowlingson/sidclosepairs
+	shallow = true
+	registered = true
 [submodule "swarmr"]
 	path = swarmr
 	url = https://gitlab.com/b-rowlingson/swarmr
