@@ -28,6 +28,11 @@
 	url = https://gitlab.com/b-rowlingson/sidclosepairs
 	shallow = true
 	registered = true
+[submodule "geosample"]
+	path = geosample
+	url = https://gitlab.com/b-rowlingson/geosample
+	shallow = true
+	registered = true
 [submodule "swarmr"]
 	path = swarmr
 	url = https://gitlab.com/b-rowlingson/swarmr

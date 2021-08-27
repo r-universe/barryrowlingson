@@ -16,6 +16,9 @@
     "package": "sidclosepairs"
   },
   {
+    "package": "geosample"
+  },
+  {
     "package": "swarmr"
   }
 ]
