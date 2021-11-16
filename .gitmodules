@@ -8,6 +8,11 @@
 	url = https://gitlab.com/b-rowlingson/voronopie
 	shallow = true
 	registered = true
+[submodule "stipple"]
+	path = stipple
+	url = https://gitlab.com/b-rowlingson/stipple
+	shallow = true
+	registered = true
 [submodule "abusethis"]
 	path = abusethis
 	url = https://gitlab.com/b-rowlingson/abusethis
