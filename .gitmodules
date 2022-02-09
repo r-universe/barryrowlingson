@@ -3,6 +3,11 @@
 	url = https://github.com/barryrowlingson/universe
 	shallow = true
 	branch = HEAD
+[submodule "openww"]
+	path = openww
+	url = https://gitlab.com/b-rowlingson/openww
+	shallow = true
+	registered = true
 [submodule "voronopie"]
 	path = voronopie
 	url = https://gitlab.com/b-rowlingson/voronopie
