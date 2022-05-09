@@ -3,6 +3,11 @@
 	url = https://github.com/barryrowlingson/universe
 	shallow = true
 	branch = HEAD
+[submodule "geoR"]
+	path = geoR
+	url = https://gitlab.com/b-rowlingson/geor
+	shallow = true
+	registered = true
 [submodule "RandomFields"]
 	path = RandomFields
 	url = https://gitlab.com/b-rowlingson/randomfields
