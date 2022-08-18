@@ -1,6 +1,7 @@
 [
   {
-    "package": "geoR"
+    "package": "geoR",
+    "oncran": false
   },
   {
     "package": "RandomFields"
