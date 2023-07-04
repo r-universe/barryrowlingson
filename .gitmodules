@@ -1,60 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/barryrowlingson/universe
-	shallow = true
 	branch = HEAD
 [submodule "geoR"]
 	path = geoR
 	url = https://gitlab.com/b-rowlingson/geor
-	shallow = true
-	registered = true
 [submodule "RandomFields"]
 	path = RandomFields
 	url = https://gitlab.com/b-rowlingson/randomfields
-	shallow = true
-	registered = true
 [submodule "openww"]
 	path = openww
 	url = https://gitlab.com/b-rowlingson/openww
-	shallow = true
-	registered = true
 [submodule "voronopie"]
 	path = voronopie
 	url = https://gitlab.com/b-rowlingson/voronopie
-	shallow = true
-	registered = true
 [submodule "stipple"]
 	path = stipple
 	url = https://gitlab.com/b-rowlingson/stipple
-	shallow = true
-	registered = true
 [submodule "abusethis"]
 	path = abusethis
 	url = https://gitlab.com/b-rowlingson/abusethis
-	shallow = true
-	registered = true
 [submodule "spatialkernel"]
 	path = spatialkernel
 	url = https://github.com/barryrowlingson/spatialkernel
-	shallow = true
-	registered = true
 [submodule "splancs"]
 	path = splancs
 	url = https://github.com/barryrowlingson/splancs
-	shallow = true
-	registered = true
 [submodule "sidclosepairs"]
 	path = sidclosepairs
 	url = https://gitlab.com/b-rowlingson/sidclosepairs
-	shallow = true
-	registered = true
 [submodule "geosample"]
 	path = geosample
 	url = https://gitlab.com/b-rowlingson/geosample
-	shallow = true
-	registered = true
 [submodule "swarmr"]
 	path = swarmr
 	url = https://gitlab.com/b-rowlingson/swarmr
-	shallow = true
-	registered = true
