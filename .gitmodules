@@ -2,36 +2,36 @@
 	path = .registry
 	url = https://github.com/barryrowlingson/universe
 	branch = HEAD
-[submodule "geoR"]
-	path = geoR
-	url = https://gitlab.com/b-rowlingson/geor
 [submodule "RandomFields"]
 	path = RandomFields
 	url = https://gitlab.com/b-rowlingson/randomfields
-[submodule "openww"]
-	path = openww
-	url = https://gitlab.com/b-rowlingson/openww
-[submodule "voronopie"]
-	path = voronopie
-	url = https://gitlab.com/b-rowlingson/voronopie
-[submodule "stipple"]
-	path = stipple
-	url = https://gitlab.com/b-rowlingson/stipple
 [submodule "abusethis"]
 	path = abusethis
 	url = https://gitlab.com/b-rowlingson/abusethis
+[submodule "geoR"]
+	path = geoR
+	url = https://gitlab.com/b-rowlingson/geor
+[submodule "geosample"]
+	path = geosample
+	url = https://gitlab.com/b-rowlingson/geosample
+[submodule "openww"]
+	path = openww
+	url = https://gitlab.com/b-rowlingson/openww
+[submodule "sidclosepairs"]
+	path = sidclosepairs
+	url = https://gitlab.com/b-rowlingson/sidclosepairs
 [submodule "spatialkernel"]
 	path = spatialkernel
 	url = https://github.com/barryrowlingson/spatialkernel
 [submodule "splancs"]
 	path = splancs
 	url = https://github.com/barryrowlingson/splancs
-[submodule "sidclosepairs"]
-	path = sidclosepairs
-	url = https://gitlab.com/b-rowlingson/sidclosepairs
-[submodule "geosample"]
-	path = geosample
-	url = https://gitlab.com/b-rowlingson/geosample
+[submodule "stipple"]
+	path = stipple
+	url = https://gitlab.com/b-rowlingson/stipple
 [submodule "swarmr"]
 	path = swarmr
 	url = https://gitlab.com/b-rowlingson/swarmr
+[submodule "voronopie"]
+	path = voronopie
+	url = https://gitlab.com/b-rowlingson/voronopie
