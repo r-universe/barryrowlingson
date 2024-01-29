@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/barryrowlingson/universe
+	url = https://github.com/barryrowlingson/barryrowlingson.r-universe.dev
 	branch = HEAD
 [submodule "RandomFields"]
 	path = RandomFields
