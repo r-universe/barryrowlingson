@@ -8,6 +8,9 @@
 [submodule "abusethis"]
 	path = abusethis
 	url = https://gitlab.com/b-rowlingson/abusethis
+[submodule "dbat"]
+	path = dbat
+	url = https://codeberg.org/browlingson/dbat
 [submodule "dippR"]
 	path = dippR
 	url = https://codeberg.org/browlingson/dippR
